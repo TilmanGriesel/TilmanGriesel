@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm passionate about open source, music, and sharing knowledge with others. Have a wonderful and inspiring day! ❤️
+
 ![TilmanGriesel's github stats](https://github-readme-stats.vercel.app/api?username=TilmanGriesel)
 
 <!--
