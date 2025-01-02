@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm passionate about open source, music, and sharing knowledge with others. Have a wonderful and inspiring day! ❤️
+I'm passionate about open source, music, and sharing knowledge with others. Have a wonderful and inspiring day!
 
-![TilmanGriesel's github stats](https://github-readme-stats.vercel.app/api?username=TilmanGriesel)
+![TilmanGriesel's github stats](https://github-readme-stats.vercel.app/api?username=TilmanGriesel&theme=vue&show_icons=true)
 
 <!--
 **TilmanGriesel/TilmanGriesel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
