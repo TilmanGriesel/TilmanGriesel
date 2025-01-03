@@ -2,7 +2,7 @@
 
 I'm passionate about open source, music, and sharing knowledge with others. Have a wonderful and inspiring day!
 
-![TilmanGriesel's github stats](https://github-readme-stats.vercel.app/api?username=TilmanGriesel&theme=graywhite&show_icons=true)
+![TilmanGriesel's github stats](https://github-readme-stats.vercel.app/api?username=TilmanGriesel&theme=graywhite&show_icons=true&cache_seconds=21600&border_radius=24&hide_border=true)
 
 <!--
 **TilmanGriesel/TilmanGriesel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
