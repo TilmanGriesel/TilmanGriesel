@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm passionate about open source, music, and sharing knowledge with others. Have a wonderful and inspiring day!
+I'm passionate about design and engineering, always driven by a holistic and inclusive perspective to create products that harmonize form and function. I also love sharing knowledge and inspiring others along the way. Wishing you a wonderful and inspiring day!
 
 ![TilmanGriesel's github stats](https://github-readme-stats.vercel.app/api?username=TilmanGriesel&theme=graywhite&show_icons=true&cache_seconds=21600&hide_border=true)
 
