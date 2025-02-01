@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm passionate about design and engineering, always aiming to create products where form and function complement each other. I also love sharing knowledge and inspiring others along the way. Wishing you a wonderful and inspiring day!
+I'm passionate about design and engineering, always aiming to create products where form and function complement each other. I also love sharing knowledge and inspiring others along the way. I wish you a wonderful day!
 
 ![TilmanGriesel's github stats](https://github-readme-stats.vercel.app/api?username=TilmanGriesel&theme=graywhite&show_icons=true&cache_seconds=21600&hide_border=true)
 
