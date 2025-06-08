@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm passionate about design and engineering. I enjoy sharing knowledge, contributing to open-source, and learning from others. Have a great day!
+I'm passionate about product design and engineering. I enjoy sharing knowledge, contributing to open-source, and learning from others. Have a great day!
 
 ![TilmanGriesel's github stats](https://github-readme-stats.vercel.app/api?username=TilmanGriesel&theme=graywhite&show_icons=true&cache_seconds=21600&hide_border=true)
 
