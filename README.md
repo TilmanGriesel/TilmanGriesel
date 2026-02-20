@@ -2,9 +2,12 @@
 
 I'm passionate about product design and engineering. I enjoy sharing knowledge, contributing to open-source, and learning from others. Have a great day!
 
-![TilmanGriesel's github stats](https://github-readme-stats.vercel.app/api?username=TilmanGriesel&theme=graywhite&show_icons=true&cache_seconds=21600&hide_border=true)
+
 
 <!--
+
+![TilmanGriesel's github stats](https://github-readme-stats.vercel.app/api?username=TilmanGriesel&theme=graywhite&show_icons=true&cache_seconds=21600&hide_border=true)
+
 **TilmanGriesel/TilmanGriesel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
